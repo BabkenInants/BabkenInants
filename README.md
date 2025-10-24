@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Villianous Brothers' new game<br>- 🌱 I’m currently learning Unity and Unreal Engine<br>- 💬 Ask me about Unity/C#<br>- 📫 How to reach me: inantsbabken@gmail.com<br>
+ 💬 Ask me about Unity/C#<br>- 📫 How to reach me: inantsbabken@gmail.com<br>
 
 
 ## 🌐 Socials:
