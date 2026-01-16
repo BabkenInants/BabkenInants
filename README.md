@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Unity/C# Junior+ developer<br>- 📫 How to reach me: inantsbabken@gmail.com<br>
 
 # 💻 Tech Stack:
